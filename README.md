@@ -1,4 +1,4 @@
 Bootstrap-JavaEE7
 =================
 
-Bootstrap Java EE 7
+Convenient project skeleton for Java EE 7 Web application based on Twitter Bootstrap.
