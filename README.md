@@ -1,7 +1,10 @@
 Bootstrap-JavaEE7
 =================
 
-Convenient project skeleton for Java EE 7 Web application based on Twitter Bootstrap.
+Use this project to quick-start a JSF 2.2 project using a Twitter Bootstrap template. 
+This version of the project is specifically built to run on Glassfish 4 using Java EE 7 stack.
+
+NOTE: If you are using Glassfish 3.x and Java EE 6, look at Bootstrap JSF 2.1 project.
 
 Technologies
 ------------
