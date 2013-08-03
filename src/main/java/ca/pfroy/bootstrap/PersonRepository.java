@@ -1,4 +1,4 @@
-package ca.bluemeta.search.business;
+package ca.pfroy.bootstrap;
 
 import javax.annotation.PostConstruct;
 import javax.enterprise.context.ApplicationScoped;

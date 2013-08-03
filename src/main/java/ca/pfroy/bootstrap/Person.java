@@ -1,4 +1,4 @@
-package ca.bluemeta.search.business;
+package ca.pfroy.bootstrap;
 
 import java.io.Serializable;
 
